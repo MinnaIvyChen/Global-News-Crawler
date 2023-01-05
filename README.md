@@ -28,5 +28,3 @@ article = Article(url)
 article.download()
 print(fulltext(article.html))
 
-# License
-[MIT](https://choosealicense.com/licenses/mit/)
